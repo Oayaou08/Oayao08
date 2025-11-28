@@ -1,15 +1,15 @@
-# Hey! I'm Omar
+# 👋 Hey! I'm Omar
 
 🎓 Junior Developer and SMX Student
 💻 Passionate about programming, web interfaces, and creating functional and polished projects.
 
 🚀 Always learning, experimenting, and improving my skills to become an increasingly well-rounded developer.
 
-🧠 Technologies and Skills
+## 🧠 Technologies and Skills
 
 🌐 HTML & CSS – web layout, modern styles, responsive designs
 
-🛠️ Website Creation – static pages, clean and professional structure
+🛠️ Website Creation – static pages, clean structure
 
 📦 Git & GitHub – version control, branches, pull requests
 
@@ -21,25 +21,16 @@
 
 I love creating projects that look professional and work well. I'm a team player, I adapt quickly, and I enjoy learning new technologies. My goal is to continue growing as a developer and contribute real solutions.
 
-## 📊 GitHub Stats 
-[My stats](https://github.com/Oayao08)
+## 📊 GitHub Stats
+⭐ My repositories and stars
 
-## ⭐ My personal projects
- -
- -
- -
- -
-
-## 👉Visit my academic projects:
- - 
- -
- -
+## 👉Visit my projects:
+github.com/Oayao08
 
 ## 📈 Activity and languages
 
 ## ⚡ Recent activity
-(Ejemplos)
-
+(EJEMPLOS, CAMBIAR A OTROS RREALES)
 💪 Opened PR #86192 on vercel/next.js
 
 💪 Opened PR #86191 on vercel/next.js
