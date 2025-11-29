@@ -31,9 +31,10 @@ I love creating projects that look professional and work well. I'm a team player
  -
 
 ## 👉Visit my academic projects:
- - Montblanc S.A [https://oayao08.github.io/Miniprojecte2.2/]
- -
- -
+ - [Montblanc S.A.](https://oayao08.github.io/Montblanc-S.A./)
+ - [IA de caràcters numèrics](https://oayao08.github.io/Numeros_1/)
+ - [Miniprojecte2.2](https://oayao08.github.io/Miniprojecte2.2/)
+   (...)
 
 ## 📈 Activity and languages
 
