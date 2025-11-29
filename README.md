@@ -5,7 +5,7 @@
 
 🚀 Always learning, experimenting, and improving my skills to become an increasingly well-rounded developer.
 
-🧠 Technologies and Skills
+## 🧠 Technologies and Skills
 
 🌐 HTML & CSS – web layout, modern styles, responsive designs
 
@@ -24,29 +24,25 @@ I love creating projects that look professional and work well. I'm a team player
 ## 📊 GitHub Stats 
 [My stats](https://github.com/Oayao08)
 
-## ⭐ My personal projects
- -
- -
- -
- -
-
 ## 👉Visit my academic projects:
- - [Montblanc S.A.](https://oayao08.github.io/Montblanc-S.A./)
- - [IA de caràcters numèrics](https://oayao08.github.io/Numeros_1/)
- - [Miniprojecte2.2](https://oayao08.github.io/Miniprojecte2.2/)
-   (...)
+ - [Montblanc S.A.](git@github.com:Oayao08/Montblanc-S.A..git)
+    - [Web](https://oayao08.github.io/Montblanc-S.A./)
+ - [Miniprojecte2.2](git@github.com:Oayao08/Montblanc-S.A..git)
+    - [Web](https://oayao08.github.io/Miniprojecte2.2/)
 
-## 📈 Activity and languages
+## ⭐ My personal projects
+ - [3D Game](git@github.com:Oayao08/3D_Game.git)
+    - [Web](https://oayao08.github.io/3D_Game/)
+ - [Words game in German](git@github.com:Oayao08/Sprachkarten.git)
+    - [Web](https://oayao08.github.io/Sprachkarten/)
+ - [RetroText](git@github.com:Oayao08/RetroText.git) (In process)
+    - [Web](https://oayao08.github.io/RetroText/)
+(...) See more more on mi profile
 
 ## ⚡ Recent activity
-(Ejemplos)
 
-💪 Opened PR #86192 on vercel/next.js
+💪 #1 opened on Apr 7 by Oayao08
 
-💪 Opened PR #86191 on vercel/next.js
+💪 #2 opened on Apr 16 by Oayao08
 
-💪 Opened PR #145 on Yaseer123/packet_bd
-
-💪 Opened PR #144 on Yaseer123/packet_bd
-
-🗣 Commented on #4506 on software-mansion/react-native-reanimated
+💪 #1 opened on Apr 16 by Oayao08
