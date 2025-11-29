@@ -1,72 +1,72 @@
-# Hey! I'm Omar 👋
+# Hey! Soc l’Omar 👋
 
 ![Profile Banner](https://img.shields.io/badge/Junior_Developer-💻-blue)  
-🎓 Junior Developer | SMX Student  
-💻 Passionate about programming, web interfaces, and creating functional and polished projects.
+🎓 Junior Developer | Estudiant de SMX  
+💻 Apassionat per la programació, les interfícies web i la creació de projectes funcionals i polits.
 
-🚀 **Always learning**, experimenting, and improving my skills to become an increasingly well-rounded developer.
+🚀 **Sempre aprenent**, experimentant i millorant les meves habilitats per esdevenir un desenvolupador cada vegada més complet.  
 ---
 
-## 🧰 Technologies & Skills
+## 🧰 Tecnologies i Habilitats
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Learning:**  
+**Aprenent:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🌐 Web layouts, modern styles, responsive designs  
-- 🛠️ Creating clean and professional web pages  
-- 📦 Version control with Git & GitHub  
-- 🔧 Programming fundamentals and best practices  
+- 🌐 Maquetació web, estils moderns, dissenys responsius  
+- 🛠️ Creació de pàgines web netes i professionals  
+- 📦 Control de versions amb Git i GitHub  
+- 🔧 Fonaments de programació i bones pràctiques  
 
 ---
 
-## 📌 About Me
+## 📌 Sobre mi
 
-I love building projects that **look professional and work well**.  
-I adapt quickly, enjoy teamwork, and love learning new technologies.  
-My goal is to keep growing as a developer and contribute **real solutions**.  
+M'encanta crear projectes que **lluïsquen professionals i funcionin bé**.  
+M’adapto ràpidament, gaudeixo del treball en equip i m’agrada aprendre noves tecnologies.  
+El meu objectiu és continuar creixent com a desenvolupador i aportar **solucions reals**.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadístiques de GitHub
 
 ![Omar's GitHub stats](https://github.com/Oayao08)  
 
 ---
 
-## 🚀 Academic Projects
+## 🚀 Projectes Acadèmics
 
-| Project | Web Demo |
-|---------|----------|
+| Projecte | Web Demo |
+|----------|----------|
 | [Montblanc S.A.](https://github.com/Oayao08/Montblanc-S.A.) | [Web](https://oayao08.github.io/Montblanc-S.A./) |
 | [Miniprojecte2.2](https://github.com/Oayao08/Montblanc-S.A.) | [Web](https://oayao08.github.io/Miniprojecte2.2/) |
 
 ---
 
-## ⭐ Personal Projects
+## ⭐ Projectes Personals
 
-| Project | Description | Web Demo |
-|---------|-------------|----------|
-| [3D Game](https://github.com/Oayao08/3D_Game) | 3D game built with HTML/CSS/JS | [Web](https://oayao08.github.io/3D_Game/) |
-| [Words Game in German](https://github.com/Oayao08/Sprachkarten) | Learn German vocabulary interactively | [Web](https://oayao08.github.io/Sprachkarten/) |
-| [RetroText](https://github.com/Oayao08/RetroText) | In-progress project: retro text editor | [Web](https://oayao08.github.io/RetroText/) |
+| Projecte | Descripció | Web Demo |
+|----------|-------------|----------|
+| [3D Game](https://github.com/Oayao08/3D_Game) | Joc 3D creat amb HTML/CSS/JS | [Web](https://oayao08.github.io/3D_Game/) |
+| [Words Game in German](https://github.com/Oayao08/Sprachkarten) | Aprèn vocabulari alemany de forma interactiva | [Web](https://oayao08.github.io/Sprachkarten/) |
+| [RetroText](https://github.com/Oayao08/RetroText) | Projecte en desenvolupament: editor de text retro | [Web](https://oayao08.github.io/RetroText/) |
 
 ---
 
-## ⚡ Recent Activity
+## ⚡ Activitat Recent
 
 - 💪 #1 opened on Apr 7 by Oayao08  
 - 💪 #2 opened on Apr 16 by Oayao08  
-- 💪 #1 opened on Apr 16 by Oayao08  
+- 💪 #1 opened on Apr 16 by Oayao08   
 
 ---
 
-## 📫 Contact Me
+## 📫 Contacta amb mi
 
 - [LinkedIn](https://www.linkedin.com/in/omar-ayaou-151505323)  
 - [Portfolio / GitHub](https://github.com/Oayao08)  
@@ -74,4 +74,4 @@ My goal is to keep growing as a developer and contribute **real solutions**.
 ---
 
 ### 💡 Tip:  
-Follow me to see **new projects and learning experiences**! 🚀
+Segueix-me per veure **nous projectes i experiències d’aprenentatge**! 🚀
