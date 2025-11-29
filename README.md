@@ -35,7 +35,7 @@ My goal is to keep growing as a developer and contribute **real solutions**.
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github.com/Oayao08)  
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oayao08&show_icons=true&theme=radical)  
 
 ---
 
